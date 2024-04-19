@@ -1,13 +1,14 @@
-- 👋 Hi, I’m @MahmudovIbragim
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-MahmudovIbragim/MahmudovIbragim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![Снимок экрана (2)](https://github.com/MahmudovIbragim/MahmudovIbragim/assets/156998785/c95f4320-5a07-4182-a65b-89be72358d3a)
+<div align="center">
+  <a href="https://github.com/Elkhan2003">
+  <img height="100" src="https://readme-typing-svg.herokuapp.com?color=blue&lines=Just+Frontend+Developer"/>
+</a>
+</div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,nextjs,react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,vite" />
+   <img src="https://skillicons.dev/icons?i=scss,styledcomponents,redux,vercel" />
+</div>
+<div align="center">
+  <a href="https://github.com/TEMURBEKTUMANBAEV">
+  <img src="https://github.com/bimashazaman/Github-snake-SVG/raw/master/snake.svg"
+       alt="snake" /></a>
+</div>
