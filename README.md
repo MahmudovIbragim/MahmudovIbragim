@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/Elkhan2003">
+  <a href="https://github.com/MahmudovIbragim">
   <img height="100" src="https://readme-typing-svg.herokuapp.com?color=blue&lines=Just+Frontend+Developer"/>
 </a>
 </div>
@@ -8,7 +8,7 @@
    <img src="https://skillicons.dev/icons?i=scss,styledcomponents,redux,vercel" />
 </div>
 <div align="center">
-  <a href="https://github.com/TEMURBEKTUMANBAEV">
+  <a href="https://github.com/MahmudovIbragim">
   <img src="https://github.com/bimashazaman/Github-snake-SVG/raw/master/snake.svg"
        alt="snake" /></a>
 </div>
