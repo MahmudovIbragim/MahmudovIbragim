@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/MahmudovIbragim">
-  <img height="100" src="https://readme-typing-svg.herokuapp.com?color=blue&lines=Just+Frontend+Developer"/>
+  <img height="100" src="https://readme-typing-svg.herokuapp.com?color=blue&lines=Frontend+Developer+Ibrahim"/>
 </a>
 </div>
 <div align="center">
