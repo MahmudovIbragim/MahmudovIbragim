@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1 align="center"><span class="hi">Hi </span><span class="name">I'm</span> <a class="hi" href="https://github.com/Mahmudovibragim" target="_blank">Ibragim</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+## 🙋‍♂️ About Me
+
+<a href="https://github.com/Mahmudovibragim">
+  <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Frontend+Developer"/>
+</a>
+
 
 <!--
 **MahmudovIbragim/MahmudovIbragim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
