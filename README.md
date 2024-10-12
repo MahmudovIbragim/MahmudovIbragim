@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     <a href="https://sass-scss.ru/" target="_blank">&nbsp<img width="51px" src="https://i.ibb.co/Z6kGf6Z/3.png"/>&nbsp</a> 
     <a href="https://nodejs.org/en" target="_blank">&nbsp<img width="46px" src="https://i.ibb.co/xmg56GJ/image.png"/>&nbsp</a>  </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a herf='https://nextjs.org/' target='_blank'> <img scr='https://www.svgrepo.com/show/354113/nextjs-icon.svg'/> </a>
+    <a herf='https://nextjs.org/' target='_blank'>&nbsp<img width='51px' scr='https://www.svgrepo.com/show/354113/nextjs-icon.svg'/> </a>
 </p>
 
 <br/>
