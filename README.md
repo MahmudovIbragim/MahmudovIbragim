@@ -37,6 +37,7 @@ Here are some ideas to get you started:
     <a href="https://www.framer.com/motion/" target="_blank">&nbsp<img width="43px" src="https://i.ibb.co/JQ65k8b/image.png"/>&nbsp</a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/Nest.js.svg"/> </a> 
 </p>
 
 <br/>
