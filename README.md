@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 ## 🚀 Languages and Tools
 
 <p align="left">
-   &nbsp</a>
-    <a href="https://vitejs.dev/" target="_blank">&nbsp<img  width="45px" src="https://i.ibb.co/5s7hH59/1.png"/>&nbsp</a>
-    &nbsp</a>
      <a href="https://nextjs.org/" target="_blank">&nbsp<img  width="45px" src="https://i.ibb.co/0ymcg1H/259-oooo-plus-removebg-preview.png"/>&nbsp</a>
     <a href="https://vitejs.dev/" target="_blank">&nbsp<img  width="45px" src="https://i.ibb.co/5s7hH59/1.png"/>&nbsp</a>
     <a href="https://www.jetbrains.com/webstorm/" target="_blank">&nbsp<img  width="42px" src="https://upload.wikimedia.org/wikipedia/commons/7/71/WebStorm_Icon.png"/>&nbsp</a>
