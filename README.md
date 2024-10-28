@@ -38,6 +38,10 @@ Here are some ideas to get you started:
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img width="46px" src="https://icon.icepanel.io/Technology/svg/Nest.js.svg"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img width="46px" src="https://icon.icepanel.io/Technology/svg/Figma.svg"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img width="46px" src="https://icon.icepanel.io/Technology/svg/Insomnia.svg"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img width="46px" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img width="46px" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg"/> </a>
 </p>
 
 <br/>
@@ -46,5 +50,5 @@ Here are some ideas to get you started:
 
 <div class="contacts">
   <a href="https://wa.me/996706870391"><img src="https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=4ECB5A"></a>
-  <a href="https://t.me/ibrahimmahmudov"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"></a>
+  <a href="https://t.me/NitroCoderX"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"></a>
 </div>
