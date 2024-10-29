@@ -37,11 +37,11 @@ Here are some ideas to get you started:
     <a href="https://www.framer.com/motion/" target="_blank">&nbsp<img width="43px" src="https://i.ibb.co/JQ65k8b/image.png"/>&nbsp</a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img width="46px" src="https://icon.icepanel.io/Technology/svg/Nest.js.svg"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img width="46px" src="https://icon.icepanel.io/Technology/svg/Figma.svg"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img width="46px" src="https://icon.icepanel.io/Technology/svg/Insomnia.svg"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img width="46px" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img width="46px" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg"/> </a>
+    <a href="https://nestjs.com/" target="_blank"> <img width="46px" src="https://icon.icepanel.io/Technology/svg/Nest.js.svg"/> </a> 
+    <a href="https://www.figma.com/" target="_blank"> <img width="46px" src="https://icon.icepanel.io/Technology/svg/Figma.svg"/> </a>
+    <a href="https://insomnia.rest/" target="_blank"> <img width="46px" src="https://icon.icepanel.io/Technology/svg/Insomnia.svg"/> </a>
+    <a href="https://www.postgresql.org/" target="_blank"> <img width="46px" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg"/> </a>
+    <a href="https://www.mongodb.com/pt-br/" target="_blank"> <img width="46px" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg"/> </a>
 </p>
 
 <br/>
