@@ -1,61 +1,85 @@
-<h1 align="center"><span class="hi">Hi </span><span class="name">I'm</span> <a class="hi" href="https://github.com/Mahmudovibragim" target="_blank">Ibragim</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Ibragim Mahmudov</h1>
 
-## 🙋‍♂️ About Me
+## Hi there! 👋<br>I'm Ibragim Mahmudov 🦸‍♂️<br>Lead Frontend Engineer 👨‍💻
 
-<a href="https://github.com/Mahmudovibragim">
-  <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Frontend+Developer"/>
-</a>
+## About
+
+- 🚀 &nbsp;Creating projects of any complexity from scratch
+- 💡 &nbsp;Bringing UI/UX ideas to life
+- 💼 &nbsp;1 years of experience
+- ᴋɢ &nbsp;Based in Bishkek, Kyrgyzstan
+
+<details>
+  <summary>🔽 &nbsp;<strong>More</strong></summary>
+
+- 👔 &nbsp;Organized & standalone
+- 🤓 &nbsp;Love to code
+- 🌱 &nbsp;Constantly learning
+- 📐 &nbsp;Prone to perfectionism
+- 🏃‍♂️ &nbsp;Sports lover
+- ⛰ &nbsp;I dream of traveling
+- ☕️ &nbsp;Coffee lover
+
+</details>&nbsp;
+
+[<a href='https://t.me/NitroCoderX'><img src="https://img.shields.io/badge/-Telegram-26a5e4?logo=telegram&logoColor=white" alt="Telegram" /></a>](telegram)
+[<img src="https://img.shields.io/badge/-Instagram-df7f57?logo=instagram&logoColor=white" alt="LinkedIn" />][instagram]
+
+## Skills
+
+- 👾 &nbsp;Crafting applications, multi-page sites, landing pages & admin panels
+- 🛠 &nbsp;Favorite stack is `TypeScript` + `React` + `React Query` + `Material UI` + `RTK Query`
+- 🏎 &nbsp;Writing modern & productive code
+- 🎨 &nbsp;Creating semantic, cross-browser & pixel-perfect markup
+
+<details>
+  <summary>🔽 &nbsp;<strong>More</strong></summary>
+
+- ✅ &nbsp;Creating reliable & well-functioning interfaces
+- 🧠 &nbsp;Choosing a simple way to solve the problem
+- 🧩 &nbsp;Using a lot of patterns & techniques
+- 🧱 &nbsp;Building a modular & optimal project architecture
+- 🔧 &nbsp;Using modern frameworks, libraries, and tools
+- 📱 &nbsp;Implementing responsive interface & animations
+- 🧹 &nbsp;Following a consistent code style
+- 📒 &nbsp;Planing & decomposing tasks
+- 🐣 &nbsp;Making code reviews & teaching
+
+</details>&nbsp;
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-282828?logo=javascript&logoColor=f7df1e)
+![TypeScript](https://img.shields.io/badge/-TypeScript-282828?logo=typescript&logoColor=3178c6)
+![React](https://img.shields.io/badge/-React-282828?logo=react&logoColor=61dafb)
+![React Query](https://img.shields.io/badge/-React_Query-282828?logo=reactquery&logoColor=ff4154)
+![Redux](https://img.shields.io/badge/-Redux-282828?logo=redux&logoColor=764abc)
+![HTML](https://img.shields.io/badge/-HTML-282828?logo=html5&logoColor=e34f26)
+![CSS](https://img.shields.io/badge/-CSS-282828?logo=css3&logoColor=1572b6)
+![Sass](https://img.shields.io/badge/-Sass-282828?logo=sass&logoColor=cc6699)
+![Material UI](https://img.shields.io/badge/-Material_UI-282828?logo=MUI&logoColor=0081cb)
+![Tailwind](https://img.shields.io/badge/-Tailwind-282828?logo=tailwindcss&logoColor=35bdf7)
+![npm](https://img.shields.io/badge/-npm-282828?logo=npm&logoColor=cc0100)
+![Node.js](https://img.shields.io/badge/-Node.js-282828?logo=node.js&logoColor=339933)
+![Git](https://img.shields.io/badge/-Git-282828?logo=git&logoColor=f05032)
+![React Native](https://img.shields.io/badge/-React_Native-282828?logo=react&logoColor=61dafb)
+![WebStorm](https://img.shields.io/badge/-WebStorm-282828?logo=webstorm&logoColor=d2e95c)
+![Figma](https://img.shields.io/badge/-Figma-282828?logo=figma&logoColor=f24e1e)
+![macOS](https://img.shields.io/badge/-macOS-282828?logo=macos&logoColor=white)
+
+## Contact
+
+Do you need my **help**? Have a **suggestion** for me? Send a mail to ibrahimorunbaev59@gmail.com or use links below:
+
+[<img src="https://img.shields.io/badge/-Gmail-ea4335?logo=gmail&logoColor=white" alt="Gmail" />](email)
+[<img src="https://img.shields.io/badge/-Telegram-26a5e4?logo=telegram&logoColor=white" alt="Telegram" />](telegram)
+
+## GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudovIbragim&layout=compact&theme=tokyonight" alt="GitHub Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=MahmudovIbragim&hide=prs,issues,contribs&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+---
 
 
-<!--
-**MahmudovIbragim/MahmudovIbragim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 🚀 Languages and Tools
-
-<p align="left">
-    <a href="https://www.jetbrains.com/webstorm/" target="_blank">&nbsp<img  width="42px" src="https://upload.wikimedia.org/wikipedia/commons/7/71/WebStorm_Icon.png"/>&nbsp</a>
-    <a href="https://www.jetbrains.com/idea/" target="_blank">&nbsp<img  width="42px" src="https://www.digiseller.ru/preview/554839/p1_3426434_98691a2e.png"/>&nbsp</a>
-    <a href="https://code.visualstudio.com/" target="_blank">&nbsp<img  width="44px"src="https://i.ibb.co/z65rXyV/vs-code.png"/>&nbsp</a>
-    <a href="https://learn.javascript.ru/" target="_blank">&nbsp<img width="44px" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg"/>&nbsp</a> 
-    <a href="https://www.typescriptlang.org/docs/handbook/react.html" target="_blank">&nbsp<img width="44px" src="https://i.ibb.co/myc6m6B/ica-FVm-C2-2x.jpg"/>&nbsp</a> 
-    <a href="https://www.python.org/" target="_blank">&nbsp<img width="44px" src="https://icon.icepanel.io/Technology/svg/Python.svg"/>&nbsp</a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-     <a href="https://nextjs.org/" target="_blank">&nbsp<img  width="45px" src="https://i.ibb.co/0ymcg1H/259-oooo-plus-removebg-preview.png"/>&nbsp</a>
-    <a href="https://vitejs.dev/" target="_blank">&nbsp<img  width="45px" src="https://i.ibb.co/5s7hH59/1.png"/>&nbsp</a>
-    <a href="https://redux.js.org/" target="_blank">&nbsp<img width="51px" src="https://icon.icepanel.io/Technology/svg/Redux.svg"/>&nbsp</a> 
-    <a href="https://sass-scss.ru/" target="_blank">&nbsp<img width="51px" src="https://i.ibb.co/Z6kGf6Z/3.png"/>&nbsp</a> 
-    <a href="https://tailwindcss.com/" target="_blank">&nbsp<img width="51px" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg"/>&nbsp</a> 
-    <a href="https://mui.com/" target="_blank">&nbsp<img width="51px" src="https://icon.icepanel.io/Technology/svg/Material-UI.svg"/>&nbsp</a> 
-    <a href="https://ant.design/" target="_blank">&nbsp<img width="51px" src="https://icon.icepanel.io/Technology/svg/Ant-Design.svg"/>&nbsp</a> 
-    <a href="https://www.framer.com/motion/" target="_blank">&nbsp<img width="43px" src="https://i.ibb.co/JQ65k8b/image.png"/>&nbsp</a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://nodejs.org/en" target="_blank">&nbsp<img width="46px" src="https://i.ibb.co/xmg56GJ/image.png"/>&nbsp</a> 
-    <a href="https://nestjs.com/" target="_blank"> <img width="46px" src="https://icon.icepanel.io/Technology/svg/Nest.js.svg"/> </a> 
-    <a href="https://expressjs.com/" target="_blank"> <img width="46px" src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png"/> </a> 
-    <a href="https://www.postgresql.org/" target="_blank"> <img width="46px" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg"/> </a>
-    <a href="https://www.mongodb.com/pt-br/" target="_blank"> <img width="46px" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://insomnia.rest/" target="_blank"> <img width="46px" src="https://icon.icepanel.io/Technology/svg/Insomnia.svg"/> </a>
-    <a href="https://www.figma.com/" target="_blank"> <img width="46px" src="https://icon.icepanel.io/Technology/svg/Figma.svg"/> </a>
-</p>
-
-<br/>
-
-## 🙌 My contacts
-
-<div class="contacts">
-  <a href="https://wa.me/996706870391"><img src="https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=4ECB5A"></a>
-  <a href="https://t.me/NitroCoderX"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"></a>
-</div>
+[telegram]: https://t.me/NitroCoderX
+[instagram]: https://www.instagram.com/m__ibra___/
+[email]: ibrahimorunbaev59@gmail.com
