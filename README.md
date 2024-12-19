@@ -75,7 +75,8 @@ Do you need my **help**? Have a **suggestion** for me? Send a mail to ibrahimoru
 ## GitHub Analytics
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudovIbragim&layout=compact&theme=tokyonight" alt="GitHub Top Languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=MahmudovIbragim&hide=prs,issues,contribs&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+
 
 ---
 
@@ -87,4 +88,4 @@ Do you need my **help**? Have a **suggestion** for me? Send a mail to ibrahimoru
 
 
 
-///
+😉
