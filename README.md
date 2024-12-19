@@ -28,7 +28,7 @@
 ## Skills
 
 - 👾 &nbsp;Crafting applications, multi-page sites, landing pages & admin panels
-- 🛠 &nbsp;Favorite stack is `TypeScript` + `React` + `React Query` + `Material UI` + `RTK Query`
+- 🛠 &nbsp;Favorite stack is `TypeScript` + `React` + `Material UI | Ant Design` + `RTK Query`
 - 🏎 &nbsp;Writing modern & productive code
 - 🎨 &nbsp;Creating semantic, cross-browser & pixel-perfect markup
 
