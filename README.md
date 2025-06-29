@@ -6,7 +6,7 @@
 
 - 🚀 &nbsp;Creating projects of any complexity from scratch
 - 💡 &nbsp;Bringing UI/UX ideas to life
-- 💼 &nbsp;1 years of experience
+- 💼 &nbsp;3 years of experience
 - ᴋɢ &nbsp;Based in Bishkek, Kyrgyzstan
 
 <details>
